@@ -1,0 +1,85 @@
+﻿<Window x:Class="JSONSerializer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JSONSerializer"
+        
+        mc:Ignorable="d"
+        Title="JSONSerializer" Height="692" Width="1853.895" 
+        WindowStartupLocation="CenterScreen" Name="Window">
+    <Grid RenderTransformOrigin="0.5,0.5" Margin="0" Name="MainWindowGrid">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF174587" Offset="0.07"/>
+                <GradientStop Color="#FF275FB0" Offset="0.5"/>
+                <GradientStop Color="#FF174587" Offset="0.93"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid Margin="1311,23,11,72" Name="ElementsForSearch">
+            <Label x:Name="ResultSearchLabel" Content="Найдено элементов: " Foreground="White" HorizontalAlignment="Left" Margin="10,163,0,0" VerticalAlignment="Top" FontSize="18" Width="227"/>
+            <TextBox x:Name="TextBoxSearch_Domain" TextChanged="TextBox_TextChanged" Height="29" Margin="10,129,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="18" GotFocus="TextBoxSearch_Domain_GotFocus" SelectionChanged="TextBoxSearch_Domain_SelectionChanged"/>
+            <Label Foreground="White" Content="Поиск по доменам" HorizontalAlignment="Left" Margin="10,95,0,0" VerticalAlignment="Top" Width="210" FontSize="18"/>
+            <TextBox PreviewTextInput="TextBoxSearch_ID_PreviewTextInput" TextChanged="TextBoxSearch_ID_TextChanged" x:Name="TextBoxSearch_ID" Height="29" Margin="10,68,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="18"/>
+            <Label Foreground="White" Content="Поиск по глобальному индексу" HorizontalAlignment="Left" Margin="10,34,0,0" VerticalAlignment="Top" Width="273" FontSize="18"/>
+            <ListBox SelectionChanged="FoundedItemsList_SelectionChanged" Name="FoundedItemsList" FontSize="18" Margin="10,228,0,0"/>
+            <Label Name="CountOfAllElements"  Foreground="White" Content="Всего элементов найдено в файле: " HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top" Width="440" FontSize="18"/>
+            <TextBlock Text="индекс item - глобальный индекс - домены" Margin="10,202,142,0" Foreground="White" FontSize="18" Height="30" VerticalAlignment="Top"/>
+
+
+        </Grid>
+        <Button x:Name="OpenFileButton" Click="Button_Click" Content="Выбрать файл" Margin="10,10,0,0" Height="60" VerticalAlignment="Top" HorizontalAlignment="Left" Width="185" FontSize="18"/>
+        <Label Foreground="LightGreen" Content="Отображение сообщений" Margin="10,0,0,10" x:Name="InfoLabel" FontSize="18" Height="39" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="409" />
+        <GroupBox x:Name="FSS_Search" Header="FSS__search" HorizontalAlignment="Left" Margin="370,119,0,0" Width="941" Foreground="White" FontSize="18" Height="117" VerticalAlignment="Top">
+            <Grid Margin="0">
+                <TextBox x:Name="FSS_Search_Interval_From" HorizontalAlignment="Left" Height="29" Margin="208,40,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="350" FontSize="18"/>
+                <Label Content="From" Foreground="White" HorizontalAlignment="Left" Width="59" Height="30" VerticalAlignment="Top" FontSize="18" Margin="208,10,0,0"/>
+                <TextBox x:Name="FSS_Search_Interval_To" Height="29" Margin="0,40,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="18" HorizontalAlignment="Right" Width="350"/>
+                <Label Content="To" Margin="568,5,0,0" Foreground="White" HorizontalAlignment="Left" Width="59" Height="30" VerticalAlignment="Top" FontSize="18"/>
+                <CheckBox x:Name="FSS_IsEnabled" Margin="10,40,0,0" Content="FSS__search__enabled" FontSize="18" Foreground="White" HorizontalAlignment="Left" Width="178" Height="22" VerticalAlignment="Top"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Domains" Margin="10,75,0,72" Foreground="White" FontSize="18" HorizontalAlignment="Left" Width="350">
+            <Grid HorizontalAlignment="Left" Width="340" Margin="0,0,-2,4">
+                <TextBox TextChanged="DomainsList_TextChanged" x:Name="DomainsList" Margin="10" AcceptsReturn="True"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Name="Phrase_Search" Header="Phrase__search" Margin="370,236,0,72" Foreground="White" FontSize="18" HorizontalAlignment="Left" Width="941">
+            <Grid Margin="0">
+                <TextBox x:Name="Phrase_Search_Interval_From" HorizontalAlignment="Left" Height="29" Margin="10,40,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="318" FontSize="18"/>
+                <Label Name="Phrase_Search_From_Label" Content="From" Foreground="White" HorizontalAlignment="Left" Width="59" Height="30" VerticalAlignment="Top" FontSize="18" Margin="10,10,0,0"/>
+                <TextBox x:Name="Phrase_Search_Interval_To" HorizontalAlignment="Left" Height="29" Margin="355,40,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="318" FontSize="18"/>
+                <Label Name="Phrase_Search_To_Label" Content="To" Margin="355,10,0,0" Foreground="White" HorizontalAlignment="Left" Width="59" Height="30" VerticalAlignment="Top" FontSize="18"/>
+                <TextBox x:Name="Must_Include" HorizontalAlignment="Left" Margin="10,115,0,10" Width="263" AcceptsReturn="True"/>
+                <TextBox x:Name="Must_Include_One_Of" Margin="278,115,331,10" AcceptsReturn="True"/>
+                <TextBox x:Name="Must_Not_Include" Margin="0,115,10,10" AcceptsReturn="True" HorizontalAlignment="Right" Width="316"/>
+                <TextBlock Text="Must_Include" Margin="13,80,0,0" Foreground="White" HorizontalAlignment="Left" Width="123" FontSize="18" Height="30" VerticalAlignment="Top"/>
+                <TextBlock Text="Must_Include_One_Of" Margin="281,80,341,0" Foreground="White" FontSize="18" Height="30" VerticalAlignment="Top"/>
+                <TextBlock Text="Must_Not_Include" Margin="0,80,175,0" Foreground="White" FontSize="18" HorizontalAlignment="Right" Width="151" Height="30" VerticalAlignment="Top"/>
+
+            </Grid>
+        </GroupBox>
+        <GroupBox x:Name="Validation_Interval" Header="Validation__Interval" HorizontalAlignment="Left" Height="117" Margin="626,4,0,0" VerticalAlignment="Top" Width="685" Foreground="White" FontSize="18">
+            <Grid Margin="0">
+                <TextBox x:Name="Validation_Interval_From" HorizontalAlignment="Left" Height="30" Margin="8,40,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="318" FontSize="18"/>
+                <Label Content="From" Foreground="White" HorizontalAlignment="Left" Width="59" Height="30" VerticalAlignment="Top" FontSize="18" Margin="8,10,0,0"/>
+                <TextBox x:Name="Validation_Interval_To" Height="28" Margin="348,40,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="18"/>
+                <Label Content="To" Margin="348,10,0,0" Foreground="White" HorizontalAlignment="Left" Width="60" Height="30" VerticalAlignment="Top" FontSize="18"/>
+            </Grid>
+        </GroupBox>
+        <Button Click="Save_Click" x:Name="Save_Button" Content="Сохранить" Margin="0,0,11,10" Height="55" VerticalAlignment="Bottom" FontSize="18" HorizontalAlignment="Right" Width="185"/>
+        <Button Click="Add_Click" x:Name="Add_Button" Content="Добавить" Margin="0,0,330,10" Height="55" VerticalAlignment="Bottom" FontSize="18" HorizontalAlignment="Right" Width="124"/>
+        <Label Name="Saved" Content="Сохранено" Foreground="LightGreen"  Margin="0,0,459,10" FontSize="18" Height="39" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="107" />
+        <Button Click="Delete_Button_Click" x:Name="Delete_Button" Content="Удалить" Margin="0,0,201,10" Height="55" VerticalAlignment="Bottom" FontSize="18" HorizontalAlignment="Right" Width="124"/>
+        <Button Click="OpenSplittingFile_Click" Name="OpenSplittingFile_Button" Content="слияния" Margin="200,10,0,0" Height="60" VerticalAlignment="Top" HorizontalAlignment="Left" Width="160" FontSize="18"/>
+        <Label Foreground="LightGreen" Content="Отображение сообщений о файле соединения" Margin="424,0,0,10" x:Name="InfoSplittingFileLabel" FontSize="18" Height="39" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="851" />
+        <Button Click="SplitFiles_Click" Content="Соединить файлы" Margin="365,10,0,0" Height="60" VerticalAlignment="Top" HorizontalAlignment="Left" Width="160" FontSize="18"/>
+        <GroupBox x:Name="FSS_Or_Sites" Header="Выбор" HorizontalAlignment="Left" Height="117" Margin="530,4,0,0" VerticalAlignment="Top" Width="91" Foreground="White" FontSize="18">
+            <Grid Margin="0">
+                <RadioButton Checked="FSS_RadioButton_Checked" Name="FSS_RadioButton" GroupName="Change" Content="FSS" HorizontalAlignment="Left" Margin="10,0,0,10" FontSize="18" Foreground="White" Height="24" VerticalAlignment="Bottom" IsChecked="False"/>
+                <RadioButton Checked="Sites_RadioButton_Checked" Name="Sites_RadioButton" GroupName="Change" Content="Sites" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="18" Foreground="White"/>
+            </Grid>
+        </GroupBox>
+        <CheckBox x:Name="Report" Margin="370,76,0,0" Content="Отчет" FontSize="18" Foreground="White" HorizontalAlignment="Left" Width="78" Height="45" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

@@ -1,0 +1,240 @@
+C:\Users\MILord\source\repos\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe.config
+C:\Users\MILord\source\repos\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe
+C:\Users\MILord\source\repos\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.pdb
+C:\Users\MILord\source\repos\JSONSerializer\JSONSerializer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MILord\source\repos\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csprojResolveAssemblyReference.cache
+C:\Users\MILord\source\repos\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.g.cs
+C:\Users\MILord\source\repos\JSONSerializer\JSONSerializer\obj\Debug\App.g.cs
+C:\Users\MILord\source\repos\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.cache
+C:\Users\MILord\source\repos\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.lref
+C:\Users\MILord\source\repos\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.baml
+C:\Users\MILord\source\repos\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.g.resources
+C:\Users\MILord\source\repos\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.Properties.Resources.resources
+C:\Users\MILord\source\repos\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.GenerateResource.Cache
+C:\Users\MILord\source\repos\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CoreCompileInputs.cache
+C:\Users\MILord\source\repos\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.exe
+C:\Users\MILord\source\repos\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.pdb
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe.config
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.pdb
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csprojAssemblyReference.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.g.cs
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer\JSONSerializer\obj\Debug\App.g.cs
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.lref
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.baml
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.g.resources
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.Properties.Resources.resources
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.GenerateResource.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CoreCompileInputs.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CopyComplete
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.exe
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.pdb
+J:\JSONSerializer\Save_project_06_07__18_00\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe.config
+J:\JSONSerializer\Save_project_06_07__18_00\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe
+J:\JSONSerializer\Save_project_06_07__18_00\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.pdb
+J:\JSONSerializer\Save_project_06_07__18_00\JSONSerializer\JSONSerializer\bin\Debug\Newtonsoft.Json.dll
+J:\JSONSerializer\Save_project_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csprojResolveAssemblyReference.cache
+J:\JSONSerializer\Save_project_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.g.cs
+J:\JSONSerializer\Save_project_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\App.g.cs
+J:\JSONSerializer\Save_project_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.cache
+J:\JSONSerializer\Save_project_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.lref
+J:\JSONSerializer\Save_project_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.baml
+J:\JSONSerializer\Save_project_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.g.resources
+J:\JSONSerializer\Save_project_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.Properties.Resources.resources
+J:\JSONSerializer\Save_project_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.GenerateResource.Cache
+J:\JSONSerializer\Save_project_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CoreCompileInputs.cache
+J:\JSONSerializer\Save_project_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.exe
+J:\JSONSerializer\Save_project_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.pdb
+F:\JSONSerializer\Папка с проектом\JSONSerializer_06_07__18_00\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe.config
+F:\JSONSerializer\Папка с проектом\JSONSerializer_06_07__18_00\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe
+F:\JSONSerializer\Папка с проектом\JSONSerializer_06_07__18_00\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.pdb
+F:\JSONSerializer\Папка с проектом\JSONSerializer_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csprojAssemblyReference.cache
+F:\JSONSerializer\Папка с проектом\JSONSerializer_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.g.cs
+F:\JSONSerializer\Папка с проектом\JSONSerializer_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\App.g.cs
+F:\JSONSerializer\Папка с проектом\JSONSerializer_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.cache
+F:\JSONSerializer\Папка с проектом\JSONSerializer_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.lref
+F:\JSONSerializer\Папка с проектом\JSONSerializer_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.baml
+F:\JSONSerializer\Папка с проектом\JSONSerializer_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.g.resources
+F:\JSONSerializer\Папка с проектом\JSONSerializer_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.Properties.Resources.resources
+F:\JSONSerializer\Папка с проектом\JSONSerializer_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.GenerateResource.cache
+F:\JSONSerializer\Папка с проектом\JSONSerializer_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CoreCompileInputs.cache
+F:\JSONSerializer\Папка с проектом\JSONSerializer_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CopyComplete
+F:\JSONSerializer\Папка с проектом\JSONSerializer_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.exe
+F:\JSONSerializer\Папка с проектом\JSONSerializer_06_07__18_00\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.pdb
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_09_07\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe.config
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_09_07\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_09_07\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.pdb
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csprojAssemblyReference.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.g.cs
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\App.g.cs
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.lref
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.baml
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.g.resources
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.Properties.Resources.resources
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.GenerateResource.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CoreCompileInputs.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CopyComplete
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.exe
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.pdb
+E:\Женя\JSONSerializer\JSONSerializer_09_07\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe.config
+E:\Женя\JSONSerializer\JSONSerializer_09_07\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe
+E:\Женя\JSONSerializer\JSONSerializer_09_07\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.pdb
+E:\Женя\JSONSerializer\JSONSerializer_09_07\JSONSerializer\JSONSerializer\bin\Debug\Newtonsoft.Json.dll
+E:\Женя\JSONSerializer\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csprojResolveAssemblyReference.cache
+E:\Женя\JSONSerializer\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.g.cs
+E:\Женя\JSONSerializer\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\App.g.cs
+E:\Женя\JSONSerializer\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.cache
+E:\Женя\JSONSerializer\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.lref
+E:\Женя\JSONSerializer\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.baml
+E:\Женя\JSONSerializer\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.g.resources
+E:\Женя\JSONSerializer\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.Properties.Resources.resources
+E:\Женя\JSONSerializer\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.GenerateResource.Cache
+E:\Женя\JSONSerializer\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CoreCompileInputs.cache
+E:\Женя\JSONSerializer\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.exe
+E:\Женя\JSONSerializer\JSONSerializer_09_07\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.pdb
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_08_07_02\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe.config
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_08_07_02\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_08_07_02\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.pdb
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_08_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csprojAssemblyReference.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_08_07_02\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.g.cs
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_08_07_02\JSONSerializer\JSONSerializer\obj\Debug\App.g.cs
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_08_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_08_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.lref
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_08_07_02\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.baml
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_08_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.g.resources
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_08_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.Properties.Resources.resources
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_08_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.GenerateResource.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_08_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CoreCompileInputs.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_08_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CopyComplete
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_08_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.exe
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_08_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.pdb
+E:\Женя\JSONSerializer\JSONSerializer_09_07_02\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe.config
+E:\Женя\JSONSerializer\JSONSerializer_09_07_02\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe
+E:\Женя\JSONSerializer\JSONSerializer_09_07_02\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.pdb
+E:\Женя\JSONSerializer\JSONSerializer_09_07_02\JSONSerializer\JSONSerializer\bin\Debug\Newtonsoft.Json.dll
+E:\Женя\JSONSerializer\JSONSerializer_09_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csprojResolveAssemblyReference.cache
+E:\Женя\JSONSerializer\JSONSerializer_09_07_02\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.g.cs
+E:\Женя\JSONSerializer\JSONSerializer_09_07_02\JSONSerializer\JSONSerializer\obj\Debug\App.g.cs
+E:\Женя\JSONSerializer\JSONSerializer_09_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.cache
+E:\Женя\JSONSerializer\JSONSerializer_09_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.lref
+E:\Женя\JSONSerializer\JSONSerializer_09_07_02\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.baml
+E:\Женя\JSONSerializer\JSONSerializer_09_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.g.resources
+E:\Женя\JSONSerializer\JSONSerializer_09_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.Properties.Resources.resources
+E:\Женя\JSONSerializer\JSONSerializer_09_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.GenerateResource.Cache
+E:\Женя\JSONSerializer\JSONSerializer_09_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CoreCompileInputs.cache
+E:\Женя\JSONSerializer\JSONSerializer_09_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.exe
+E:\Женя\JSONSerializer\JSONSerializer_09_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.pdb
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_01\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe.config
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_01\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_01\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.pdb
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csprojAssemblyReference.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_01\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.g.cs
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_01\JSONSerializer\JSONSerializer\obj\Debug\App.g.cs
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.lref
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_01\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.baml
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.g.resources
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.Properties.Resources.resources
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.GenerateResource.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CoreCompileInputs.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CopyComplete
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.exe
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.pdb
+E:\Женя\JSONSerializer\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe.config
+E:\Женя\JSONSerializer\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe
+E:\Женя\JSONSerializer\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.pdb
+E:\Женя\JSONSerializer\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\bin\Debug\Newtonsoft.Json.dll
+E:\Женя\JSONSerializer\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csprojResolveAssemblyReference.cache
+E:\Женя\JSONSerializer\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.g.cs
+E:\Женя\JSONSerializer\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\App.g.cs
+E:\Женя\JSONSerializer\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.cache
+E:\Женя\JSONSerializer\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.lref
+E:\Женя\JSONSerializer\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.baml
+E:\Женя\JSONSerializer\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.g.resources
+E:\Женя\JSONSerializer\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.Properties.Resources.resources
+E:\Женя\JSONSerializer\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.GenerateResource.Cache
+E:\Женя\JSONSerializer\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CoreCompileInputs.cache
+E:\Женя\JSONSerializer\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.exe
+E:\Женя\JSONSerializer\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.pdb
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe.config
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.pdb
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csprojAssemblyReference.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.g.cs
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\App.g.cs
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.lref
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.baml
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.g.resources
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.Properties.Resources.resources
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.GenerateResource.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CoreCompileInputs.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CopyComplete
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.exe
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.pdb
+C:\configeditor\editconfig2\editconfig2\Cygankov\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe.config
+C:\configeditor\editconfig2\editconfig2\Cygankov\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe
+C:\configeditor\editconfig2\editconfig2\Cygankov\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.pdb
+C:\configeditor\editconfig2\editconfig2\Cygankov\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csprojAssemblyReference.cache
+C:\configeditor\editconfig2\editconfig2\Cygankov\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.g.cs
+C:\configeditor\editconfig2\editconfig2\Cygankov\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\App.g.cs
+C:\configeditor\editconfig2\editconfig2\Cygankov\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.cache
+C:\configeditor\editconfig2\editconfig2\Cygankov\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.lref
+C:\configeditor\editconfig2\editconfig2\Cygankov\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.baml
+C:\configeditor\editconfig2\editconfig2\Cygankov\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.g.resources
+C:\configeditor\editconfig2\editconfig2\Cygankov\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.Properties.Resources.resources
+C:\configeditor\editconfig2\editconfig2\Cygankov\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.GenerateResource.cache
+C:\configeditor\editconfig2\editconfig2\Cygankov\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CoreCompileInputs.cache
+C:\configeditor\editconfig2\editconfig2\Cygankov\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CopyComplete
+C:\configeditor\editconfig2\editconfig2\Cygankov\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.exe
+C:\configeditor\editconfig2\editconfig2\Cygankov\JSONSerializer\Папка с проектом\JSONSerializer_10_07_02\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.pdb
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_11_07_01\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe.config
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_11_07_01\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_11_07_01\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.pdb
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_11_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csprojAssemblyReference.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_11_07_01\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.g.cs
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_11_07_01\JSONSerializer\JSONSerializer\obj\Debug\App.g.cs
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_11_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_11_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.lref
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_11_07_01\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.baml
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_11_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.g.resources
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_11_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.Properties.Resources.resources
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_11_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.GenerateResource.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_11_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CoreCompileInputs.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_11_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CopyComplete
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_11_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.exe
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_11_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.pdb
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_13_07_01\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe.config
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_13_07_01\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_13_07_01\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.pdb
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_13_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csprojAssemblyReference.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_13_07_01\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.g.cs
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_13_07_01\JSONSerializer\JSONSerializer\obj\Debug\App.g.cs
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_13_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_13_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.lref
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_13_07_01\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.baml
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_13_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.g.resources
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_13_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.Properties.Resources.resources
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_13_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.GenerateResource.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_13_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CoreCompileInputs.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_13_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CopyComplete
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_13_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.exe
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_13_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.pdb
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_27_07_01\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe.config
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_27_07_01\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.exe
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_27_07_01\JSONSerializer\JSONSerializer\bin\Debug\JSONSerializer.pdb
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_27_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csprojAssemblyReference.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_27_07_01\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.g.cs
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_27_07_01\JSONSerializer\JSONSerializer\obj\Debug\App.g.cs
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_27_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_27_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer_MarkupCompile.lref
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_27_07_01\JSONSerializer\JSONSerializer\obj\Debug\MainWindow.baml
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_27_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.g.resources
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_27_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.Properties.Resources.resources
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_27_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.GenerateResource.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_27_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CoreCompileInputs.cache
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_27_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.csproj.CopyComplete
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_27_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.exe
+C:\configeditor\editconfig2\editconfig2\Цыганков\JSONSerializer\Папка с проектом\JSONSerializer_27_07_01\JSONSerializer\JSONSerializer\obj\Debug\JSONSerializer.pdb
